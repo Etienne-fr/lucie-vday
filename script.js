@@ -16,7 +16,7 @@ const noMessages = [
     "Si tu dis non, je prive Arwen de croquettes...",
     "Je serais triste et Arwen sera affamée.. 😢",
     "S'il te plaaaaaaaait??? 💔",
-    "Dernière change 😭",
+    "Dernière chance 😭",
     "Bazinga, tu ne m'attraperas pas 😜"
 ]
 
