@@ -11,12 +11,11 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "Est-ce que tu as mangé? 🤔",
+    "Pardon?! Est-ce que tu as mangé? 🤔",
     "Lucie stppp... 🥺",
     "Si tu dis non, je prive Arwen de croquettes...",
     "Je serais triste et Arwen sera affamée.. 😢",
     "S'il te plaaaaaaaait??? 💔",
-    "Ne me fait pas caaaaaa...",
     "Dernière change 😭",
     "Bazinga, tu ne m'attraperas pas 😜"
 ]
